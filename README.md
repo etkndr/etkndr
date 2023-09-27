@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack web developer from Knoxville, TN. A bit about me:
+I'm Eric, a software engineer from Knoxville, TN. A bit about me:
 
 - 🌱 I’m currently learning Sass and p5.js
 - 👯 I’m looking to collaborate on interesting projects that will help me learn and grow as a developer
